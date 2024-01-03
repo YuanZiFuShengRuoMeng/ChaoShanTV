@@ -5,3 +5,4 @@ CCTV1,https://hlsliveali-cdn.ysp.cctv.cn/A2EDA3F7338D4AD254E30D095A5CB5092AD910C
 
 潮汕,#genre#
 汕头综合,https://sttv-tsl.cutv.com/lKGXIQa/500/s5sgKsX.m3u8
+揭阳综合,https://2061827162.cloudvdn.com/a.m3u8?domain=hls-stjy.sobeylive.com&player=XfYAAL2b-vZQ0KYX&secondToken=secondToken%3Aqr3m_GEJOYbY5Ylsn2K7j9n5J_s&sign=95ce2a439c231ec39023f7083bd1c8e9&streamid=stjy2020%3Astjy2020%2Fzhpd&t=65968b70&v3=1
