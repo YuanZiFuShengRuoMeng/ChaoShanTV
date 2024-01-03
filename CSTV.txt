@@ -4,3 +4,4 @@ CCTV1,http://hf.bbtu.top:10000/rtp/239.3.1.129:8008
 CCTV1,http://hf.bbtu.top:10000/rtp/239.3.1.1:8000
 
 潮汕,#genre#
+揭阳综合ᴴᴰ，http://yzfvip.top:8000/rtp/239.77.0.229:5146
