@@ -4,7 +4,4 @@ CCTV1,http://hf.bbtu.top:10000/rtp/239.3.1.129:8008
 CCTV1,http://hf.bbtu.top:10000/rtp/239.3.1.1:8000
 
 潮汕,#genre#
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-
-#EXTM3U
-https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
+CCTV1,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
