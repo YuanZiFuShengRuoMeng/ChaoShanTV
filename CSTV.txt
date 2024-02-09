@@ -4,4 +4,4 @@
 揭阳综合,https://hls-stjy.sobeylive.com/stjy2020/zhpd.m3u8?sign=9eb311388b8889fc7d85a92ac6620102&t=65c5c16b
 揭阳生活,https://hls-stjy.sobeylive.com/stjy2020/ggpd.m3u8?sign=4d5b4f405a0a5bc182a6323036f1e996&t=65c5c80d
 汕尾综合,http://24ll.qingk.cn/live/swsjzb1.m3u8?sign=e384a688b0f065942cd222f346d3f7a1&t=65c5b2a1
-汕尾民生,
+汕尾民生,http://24ll.qingk.cn/live/swsjzb2.m3u8?sign=df7abdd46e6fe7cc2109dcec80b19280&t=65c5b2f7
