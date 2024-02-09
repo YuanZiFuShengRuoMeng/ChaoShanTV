@@ -1,4 +1,4 @@
 潮汕,#genre#
 汕头综合,https://sttv-tsl.cutv.com/lKGXIQa/500/76slcG0.m3u8
-揭阳综合,https://2061827164.cloudvdn.com/a.m3u8?domain=hls-stjy.sobeylive.com&player=3QgAAFsYAJ6WIKcX&secondToken=secondToken%3A0dc7rX3CY2XJtvOmxpX_Fn-vAAQ&sign=16352a506c014d32fa0b6e39acb8cd9c&streamid=stjy2020%3Astjy2020%2Fzhpd&t=6597e45e&v3=1
+揭阳综合,https://hls-stjy.sobeylive.com/stjy2020/zhpd.m3u8?sign=9eb311388b8889fc7d85a92ac6620102&t=65c5c16b
 揭阳生活,https://2061824984.cloudvdn.com/a.m3u8?domain=hls-stjy.sobeylive.com&player=Mi0AADxdmrmZ0KYX&secondToken=secondToken%3A_OHYBdh0NhrhMmrqoug4AsihzXw&sign=72a67b85c455c81358db7802052248b4&streamid=stjy2020%3Astjy2020%2Fggpd&t=65968ca4&v3=1
