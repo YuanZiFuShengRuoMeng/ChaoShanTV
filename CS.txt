@@ -1,4 +1,4 @@
-央视,#genre#
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV1,http://hf.bbtu.top:10000/rtp/239.3.1.129:8008
-CCTV1,http://hf.bbtu.top:10000/rtp/239.3.1.1:8000
+潮汕测试,#genre#
+汕头综合;http://183.239.193.55:2223/hls/76/index.m3u8
+汕头民生;http://183.239.193.55:2223/hls/69/index.m3u8
+汕头文旅;http://183.239.193.55:2223/hls/62/index.m3u8
