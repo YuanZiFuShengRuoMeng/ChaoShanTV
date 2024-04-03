@@ -1,7 +1,8 @@
 潮汕,#genre#
+汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8
+汕头经济生活,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8
+汕头文旅体育,http://183.237.246.14:9931/tsfile/live/1133_1.m3u8
+揭阳综合,http://183.237.246.14:9931/tsfile/live/1134_1.m3u8
+揭阳生活,http://183.237.246.14:9931/tsfile/live/1135_1.m3u8
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
-汕头综合,https://sttv-tsl.cutv.com/lKGXIQa/n2sgKgX.m3u8
-汕头综合,http://183.239.193.55:2223/hls/76/index.m3u8
-汕头民生,http://183.239.193.55:2223/hls/69/index.m3u8
-汕头文旅,http://183.239.193.55:2223/hls/62/index.m3u8
