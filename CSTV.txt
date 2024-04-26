@@ -1,6 +1,7 @@
 潮汕,#genre#
 潮州综合,http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
+潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 汕头综合,http://183.237.246.14:9931/tsfile/live/1131_1.m3u8
 汕头综合,http://183.239.193.55:2223/hls/76/index.m3u8
 汕头经济生活,http://183.237.246.14:9931/tsfile/live/1132_1.m3u8
@@ -10,3 +11,4 @@
 揭阳综合,http://183.237.246.14:9931/tsfile/live/1134_1.m3u8
 揭阳综合,http://183.239.193.55:2223/hls/11/index.m3u8
 揭阳生活,http://183.237.246.14:9931/tsfile/live/1135_1.m3u8
+普宁综合,http://php.jdshipin.com:8880/chudian.php?id=pnzh
